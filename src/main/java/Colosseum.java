@@ -91,6 +91,7 @@ public class Colosseum {
      */
     public static void printWhoIsAhead() {
         System.out.println("Implement me!");
+        System.out.println("yeah me!");
     }
 
     /**
